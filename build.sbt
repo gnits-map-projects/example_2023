@@ -1,7 +1,7 @@
 lazy val root = (project in file("."))
   .enablePlugins(PlayJava)
   .settings(
-    name := """play-java-jpa-example""",
+    name := """example_2023""",
     version := "1.0-SNAPSHOT",
     scalaVersion := "2.13.11",
     libraryDependencies ++= Seq(
